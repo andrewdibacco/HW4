@@ -1,0 +1,19 @@
+.dimension{
+    margin-bottom: 5px
+}
+.inputTag{
+    display: inline-block;
+    width: 65px;
+}
+
+.error{
+    background-color: red;
+    margin-bottom: 5px;
+}
+
+/* hides the input form */
+
+#input{
+    visibility: hidden;
+    position: absolute;
+}
